@@ -1,0 +1,16 @@
+I,PRP,O
+am,VBP,O
+first,JJ,O
+owner,NN,O
+.,.,O
+2009,CD,O
+years,NNS,O
+",",",",O
+Yamaha,NNP,O
+Vmax,NNP,O
+",",",",O
+black,JJ,O
+color,NN,O
+",",",",O
+3500,CD,O
+miles,NNS,O

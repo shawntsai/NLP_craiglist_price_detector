@@ -1,0 +1,15 @@
+Scout,NNP,O
+brand,NN,O
+new,JJ,O
+(,(,O
+never,RB,O
+used,VBN,O
+),),O
+Flat,JJ,O
+tires,NNS,O
+Maybe,RB,O
+needs,VBZ,O
+alternator,NN,O
+coding,NN,O
+or,CC,O
+troubleshooting,NN,O
